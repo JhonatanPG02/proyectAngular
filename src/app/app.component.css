@@ -1,0 +1,24 @@
+.content {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(14, 14, 14, 0.856);
+}
+
+.container {
+  width: 100%;
+  background-image: url("../assets/images/banner.jpeg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: flex;
+  flex-direction: row;
+}
+
+.home {
+  width: 90%;
+}
+
+.profile {
+  width: 10%;
+}
